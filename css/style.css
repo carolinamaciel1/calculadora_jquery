@@ -1,0 +1,29 @@
+#calc{
+    margin: auto;
+    border-style: groove;
+    padding: 30px 50px 30px 50px;
+    width: 200px;
+    height: 201px;
+}
+
+
+button{
+    margin: auto;
+    background-color: #CDC9C9;
+    padding: 18px;
+    width: 10px;
+    height: 10px;
+}
+
+input{
+    margin: auto;
+    width: 176px;
+    height: 30px;
+}
+
+.buttonfunc{
+    margin: auto;
+    background-color: #CDC9C9;
+    padding: 10px 19px 23px 18px;
+    border-style:groove;
+}
