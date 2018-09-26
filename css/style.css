@@ -1,23 +1,28 @@
 #calc{
-    margin: auto;
+     margin: auto;
     border-style: groove;
-    padding: 30px 50px 30px 50px;
+    padding: 20px 20px 20px 20px;
     width: 200px;
-    height: 201px;
+    height: 295px;
+    background-color: #f7ffe8;
 }
 
 
 button{
     margin: auto;
     background-color: #CDC9C9;
-    padding: 18px;
+    padding: 21px;
     width: 10px;
     height: 10px;
 }
 
+button:hover{
+    background-color: #ebebe0;
+}
+
 input{
     margin: auto;
-    width: 176px;
+    width: 200px;
     height: 30px;
 }
 
@@ -26,4 +31,9 @@ input{
     background-color: #CDC9C9;
     padding: 10px 19px 23px 18px;
     border-style:groove;
+}
+
+h1{
+    font-family: 'tahoma',sans-serif;
+    font-size: 10px;
 }
